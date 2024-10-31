@@ -1,0 +1,63 @@
+.container1 {
+    height: 1200px;
+    align-items: center;
+    display: flex;
+}
+.box1 {
+    border: 3px solid darkmagenta;
+    background-color: lightpink;
+    border-radius: 10px;
+    height: 200px;
+    width: 500px;
+    margin-bottom: 750px;
+    margin-left: 130px;
+
+
+}
+.some-user {
+    width: 150px;
+    height: 30px;
+    font-size: 30px;
+    margin-bottom: 1000px;
+    margin-top: -40px;
+    margin-left: 50px;
+
+    margin-bottom: 500px;
+}
+.filler {
+    font-size: 20px;
+    margin-top: -460px;
+    display: flex;
+    width: 350px;
+    margin-left: 50px;
+}
+
+.btn {
+    display: flex;
+    margin-left: 400px;
+    margin-top: -40px;
+    width: 80px;
+    justify-content: center;
+    border-radius: 20px;
+    border-color: aquamarine;
+    transition: .8s;
+    box-shadow: 5px 5px lightblue;
+    
+    
+}
+
+.likes {
+    margin-left: 290px;
+}
+.h3 {
+    /* display: flex; */
+
+}
+
+#count {
+    color: rebeccapurple;
+    padding: 10;
+    font-weight: 500;
+    margin-left: 320px;
+    margin-top: 20px;
+}
